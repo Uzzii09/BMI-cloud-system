@@ -7,7 +7,7 @@
     "start": "node api/bmi-data.js"
   },
   "engines": {
-    "node": "18.x"
+    "node": "20.x"
   },
   "keywords": ["esp32", "bmi", "health"],
   "author": "Uzzil09",
