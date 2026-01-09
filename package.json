@@ -1,0 +1,15 @@
+{
+  "name": "bmi-cloud-system",
+  "version": "1.0.0",
+  "description": "Cloud API for ESP32 BMI System",
+  "main": "api/bmi-data.js",
+  "scripts": {
+    "start": "node api/bmi-data.js"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "keywords": ["esp32", "bmi", "health"],
+  "author": "Uzzil09",
+  "license": "MIT"
+}
